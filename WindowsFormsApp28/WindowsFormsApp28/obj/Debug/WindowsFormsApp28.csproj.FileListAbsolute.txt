@@ -1,0 +1,12 @@
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\SchoolDB.mdf
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\SchoolDB_log.ldf
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.AssemblyReference.cache
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.CoreCompileInputs.cache
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+C:\Users\yalda\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
