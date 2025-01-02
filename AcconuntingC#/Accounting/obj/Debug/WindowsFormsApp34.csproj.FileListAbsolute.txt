@@ -1,0 +1,17 @@
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe.config
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.pdb
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.AssemblyReference.cache
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Form1.resources
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Properties.Resources.resources
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.GenerateResource.cache
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.CoreCompileInputs.cache
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.exe
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.pdb
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\bin\Debug\Database1.mdf
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\bin\Debug\Database1_log.ldf
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Customer.resources
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.mainmenu.resources
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.payable.resources
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Receivable.resources
+C:\Users\yalda\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Report.resources
